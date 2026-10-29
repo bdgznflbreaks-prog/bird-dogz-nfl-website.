@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bdgz.pages.dev/sitemap.xml
